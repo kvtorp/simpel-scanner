@@ -9,7 +9,8 @@
 				</contentMiddle>
 				<contentRight>
 					<Button icon="sap-icon://camera"
-							id="startScan"></Button>
+							id="startScan"
+							press="handlePress"></Button>
 				</contentRight>
 			</Bar>
 		</subHeader>

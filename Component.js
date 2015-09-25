@@ -125,5 +125,9 @@ sap.ui.core.UIComponent.extend("nszscanner.Component", {
 
 	getEventBus: function() {
 		return sap.ui.getCore().getEventBus();
+	},
+	
+	handlePress: function() {
+		
 	}
 });
